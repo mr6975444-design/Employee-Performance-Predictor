@@ -132,3 +132,9 @@ Add your name here.
 ## License
 
 This project is available for educational use. Add a license if you intend to distribute or reuse it publicly.
+
+## Dashboard Screenshots
+
+### Performance Prediction
+
+![Performance Prediction](images/dashboard_prediction.png)
