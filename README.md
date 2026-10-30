@@ -138,3 +138,7 @@ This project is available for educational use. Add a license if you intend to di
 ### Performance Prediction
 
 ![Performance Prediction](images/dashboard_prediction.png)
+
+### Model Evaluation
+
+![Model Evaluation](images/dashboard_evaluation.png)
