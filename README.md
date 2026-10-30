@@ -142,3 +142,7 @@ This project is available for educational use. Add a license if you intend to di
 ### Model Evaluation
 
 ![Model Evaluation](images/dashboard_evaluation.png)
+
+### Project Information
+
+![Project Information](images/dashboard_information.png)
