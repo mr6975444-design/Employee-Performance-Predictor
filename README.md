@@ -294,18 +294,4 @@ Live Dashboard: [Open Streamlit App](https://employee-performance-predictor-nuwy
 ⭐ If you find this project interesting, feel free to explore the repository and the live dashboard!
 
 
-## Dashboard Screenshots
-
-### Performance Prediction
-
-![Performance Prediction](images/dashboard_prediction.png)
-
-### Model Evaluation
-
-![Model Evaluation](images/dashboard_evaluation.png)
-
-### Project Information
-
-![Project Information](images/dashboard_information.png)
-
 **Thank you for visiting my project!**
